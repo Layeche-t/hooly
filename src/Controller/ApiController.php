@@ -14,7 +14,7 @@ class ApiController
     /**
      * Function post
      * 
-     * @Route("/post", name="first_post")
+     * @Route("/post", name="post_rdv")
      */
     public function post()
     {
